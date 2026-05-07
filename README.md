@@ -14,19 +14,24 @@ https://youtu.be/gsc_Ruihdj0?si=N1O1r4TltwYnBwRN
 
 ## Lab assignment screenshots
 ###  1. Array creation
-<img width="700" height="400" alt="Screenshot 2026-05-06 074902" src="https://github.com/user-attachments/assets/515a8cbc-dad9-481e-aaae-2b1d7317c4e5" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074902" src="https://github.com/user-attachments/assets/515a8cbc-dad9-481e-aaae-2b1d7317c4e5" />
 
 ### 2.  NumPy Operations 
-<img width="700" height="400" alt="Screenshot 2026-05-06 074842" src="https://github.com/user-attachments/assets/c9a616da-2034-4b31-9e4f-bfdee88434cf" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074842" src="https://github.com/user-attachments/assets/c9a616da-2034-4b31-9e4f-bfdee88434cf" />
 
 ### 3. Image operations
-<img width="700" height="400" alt="Screenshot 2026-05-06 074402" src="https://github.com/user-attachments/assets/7421c35a-a3e6-44eb-961a-5087a81d98e6" />
-<img width="700" height="400" alt="Screenshot 2026-05-06 074429" src="https://github.com/user-attachments/assets/39ff8217-c8a2-4178-bb02-dce89f81600c" />
-<img width="700" height="400" alt="Screenshot 2026-05-06 074517" src="https://github.com/user-attachments/assets/332919d6-cb0e-41b3-ba3b-096f71db9d54" />
-<img width="700" height="400" alt="Screenshot 2026-05-06 074550" src="https://github.com/user-attachments/assets/be365706-d5a7-45d1-8e9f-4f737afdcae8" />
-<img width="700" height="400" alt="Screenshot 2026-05-06 074613" src="https://github.com/user-attachments/assets/1382abd0-f731-4a2d-b8af-0e49587520d7" />
-<img width="700" height="400" alt="Screenshot 2026-05-06 074637" src="https://github.com/user-attachments/assets/6d188314-def6-4122-ac68-47bb170a85c9" />
-<img width="700" height="400" alt="Screenshot 2026-05-06 074705" src="https://github.com/user-attachments/assets/6e36b90e-a703-4b68-8432-1815624d3804" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074402" src="https://github.com/user-attachments/assets/7421c35a-a3e6-44eb-961a-5087a81d98e6" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074429" src="https://github.com/user-attachments/assets/39ff8217-c8a2-4178-bb02-dce89f81600c" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074517" src="https://github.com/user-attachments/assets/332919d6-cb0e-41b3-ba3b-096f71db9d54" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074550" src="https://github.com/user-attachments/assets/be365706-d5a7-45d1-8e9f-4f737afdcae8" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074613" src="https://github.com/user-attachments/assets/1382abd0-f731-4a2d-b8af-0e49587520d7" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074637" src="https://github.com/user-attachments/assets/6d188314-def6-4122-ac68-47bb170a85c9" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 074705" src="https://github.com/user-attachments/assets/6e36b90e-a703-4b68-8432-1815624d3804" />
+
+### Graph problems
+<img width="1920" height="1080" alt="Screenshot 2026-05-07 121945" src="https://github.com/user-attachments/assets/2bcbc0a0-bdfb-4810-94a6-b15c84a33ead" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-07 121828" src="https://github.com/user-attachments/assets/1727822b-3196-40bd-aab5-c25bf3c4048f" />
+
 
 ### screenshots of codetantra complition of lab and theory 
 ### 1. lab complition
