@@ -35,6 +35,20 @@ https://youtu.be/gsc_Ruihdj0?si=N1O1r4TltwYnBwRN
 ### 5.  Datset operations pdf link
 https://github.com/yogitaugaikwad241-alt/Dataset-Operations/blob/68ebad4ebdeb0f95f28e5d15b9abd5f948026976/MOVIE_PDF.pdf
 
+### 6. linear search
+<img width="1600" height="900" alt="LINEARSEARCH" src="https://github.com/user-attachments/assets/6256c321-764c-47c2-bae6-0f1396f06ea6" />
+
+### 7. Titanic programm
+<img width="1600" height="900" alt="T5" src="https://github.com/user-attachments/assets/3659c053-41c4-4e82-a8b0-e6150e23e359" />
+<img width="1600" height="900" alt="T4" src="https://github.com/user-attachments/assets/0af21182-f0a6-4b9d-ace1-5c3c888faa24" />
+<img width="1600" height="900" alt="T3" src="https://github.com/user-attachments/assets/3d1dfb09-4396-4e2a-b2d2-07411e904272" />
+<img width="1600" height="900" alt="T2" src="https://github.com/user-attachments/assets/c1bc069b-3628-4846-824b-0f21efa1c740" />
+<img width="1600" height="900" alt="T1" src="https://github.com/user-attachments/assets/250ebbb4-0a73-4893-9280-7e6174e8213d" />
+
+### 8. Star pattern
+<img width="1600" height="900" alt="STAR" src="https://github.com/user-attachments/assets/9f5cb813-812a-4641-b851-fd0f1883da4e" />
+
+
 
 
 ### screenshots of codetantra complition of lab and theory 
